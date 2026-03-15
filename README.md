@@ -55,5 +55,7 @@ Generate insights that can help improve sales strategy
 
 ## Dashboard SS
 
+"C:\Users\SATYAM SINGH\OneDrive\Desktop\Screenshot.png"
+
 
 
