@@ -64,5 +64,21 @@ Generate insights that can help improve sales strategy
 
 ![Dashbord Screenshot](https://github.com/Satyam-Singh-1801/Data-Analysis-Dashboard/blob/main/Screenshot.png)
 
+## Project Insights
 
+Identified top sales executives based on total sales performance.
+
+Found lowest sales performers who may need improvement or training.
+
+Analyzed Target Hit % to measure employee productivity.
+
+Highlighted Top 5 performers based on target achievement.
+
+Identified Bottom 5 performers who are far from their targets.
+
+Observed a performance gap between top and low performers.
+
+## Final Conclusion
+
+The dashboard helps analyze sales performance, target achievement, and employee productivity. It provides clear insights to identify top performers, low performers, and overall sales trends, helping support data-driven business decisions.
 
