@@ -45,12 +45,19 @@ Generate insights that can help improve sales strategy
 # Process
 
 1️. Data Collection: Collected the sales dataset containing information about sales executives, regions, daily sales, targets, and total sales.
+
 2️. Data Understanding: Reviewed the dataset to understand column meanings, data types, and overall structure of the data.
+
 3️. Data Cleaning: Checked the dataset for missing values, formatting issues, and ensured the data was accurate and consistent.
+
 4️. Data Analysis: Analyzed the data to identify top sales performers, lowest performers, and target achievement levels.
+
 5️. KPI Calculation: Calculated key performance indicators such as total sales, target achievement percentage, and away from target percentage.
+
 6️. Data Visualization: Created charts and visualizations to represent sales performance, top performers, and bottom performers.
+
 7️. Dashboard Creation: Designed an interactive Excel dashboard to present the analysis and insights in a clear and visual format.
+
 8️. Insight Generation: Generated business insights to understand sales performance and support better decision-making. 
 
 ## Dashboard SS
