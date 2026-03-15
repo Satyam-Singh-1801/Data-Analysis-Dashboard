@@ -26,3 +26,20 @@ Generate insights that can help improve sales strategy
 ## Dataset Used
 
 <a href="https://github.com/Satyam-Singh-1801/Data-Analysis-Dashboard/blob/main/Sales%20Performance%20Analysis.xlsm">Dataset</a>
+
+## Questions (KPIs)
+
+-Who are the top sales executives based on total sales?
+-Who are the lowest performing sales executives based on total sales?
+-Which sales executives achieved the highest target hit percentage?
+-Which sales executives have the lowest target achievement percentage?
+-Who are the top 5 sales executives based on target achievement?
+-Who are the bottom 5 sales executives based on target achievement?
+-hat is the overall sales performance compared to the target?
+-How does employee performance vary across the dataset?
+
+
+
+## Dashboard
+<a href="https://github.com/Satyam-Singh-1801/Data-Analysis-Dashboard/blob/main/Screenshot.png">Dashboard</a>
+
