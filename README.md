@@ -55,7 +55,7 @@ Generate insights that can help improve sales strategy
 
 ## Dashboard SS
 
-![Dashbord Screenshot](C:\Users\SATYAM SINGH\OneDrive\Desktop\Screenshot.png)
+![Dashbord Screenshot](https://github.com/Satyam-Singh-1801/Data-Analysis-Dashboard/blob/main/Screenshot.png)
 
 
 
