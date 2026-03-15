@@ -21,3 +21,8 @@ Identify top and low performing employees
 Understand daily sales trends
 
 Generate insights that can help improve sales strategy
+
+
+## Dataset Used
+
+<a href="https://github.com/Satyam-Singh-1801/Data-Analysis-Dashboard/blob/main/Sales%20Performance%20Analysis.xlsm">Dataset</a>
